@@ -16,8 +16,6 @@ I'm Jian Yoo who writes while developing. <br>
 I place importance on communication and growth. <br>
 I like to leave a mark as a record.
 
-<br>
-
 <!-- Skills -->
 ### 🛠️ Skills
 
