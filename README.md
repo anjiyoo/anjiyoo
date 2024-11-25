@@ -11,11 +11,8 @@
 
 <!-- Hello -->
 ### 👋🏻 Hi there
-저는 소통과 성장을 중요시합니다. <br>
-기록으로 흔적을 남기는 것을 좋아합니다. <br>
-I'm Jian Yoo who writes while developing. <br>
-I place importance on communication and growth. <br>
-I like to leave a mark as a record.
+저는 소통과 성장을 중요시합니다. 기록으로 흔적을 남기는 것을 좋아합니다. <br>
+I'm Jian Yoo who writes while developing. I place importance on communication and growth. I like to leave a mark as a record.
 
 
 <!-- Skills -->
