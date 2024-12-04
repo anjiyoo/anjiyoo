@@ -1,3 +1,5 @@
+<div align="left">
+  
 <!-- Mail & Blog -->
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="mailto:(soiseaubleu@gmail.com)" target="_blank">
@@ -7,8 +9,6 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </a>
 </div>
-
-<div align="left">
 
 <!-- Hello -->
 ### 👋🏻 Hi there
