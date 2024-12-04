@@ -8,6 +8,7 @@
   </a>
 </div>
 
+<div align="left">
 
 <!-- Hello -->
 ### 👋🏻 Hi there
@@ -31,9 +32,15 @@ I'm Jian Yoo who writes while developing. I place importance on communication an
 
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
 
+</div>
+
+<div align="right">
+
 <!-- Git status 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjiyoo&show_icons=true&theme=dark) -->
 
 <!-- boj -->
 ### 🌲 Backjoon 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={soiseaubleu})](https://solved.ac/{soiseaubleu})
+
+</div>
